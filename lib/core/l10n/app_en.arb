@@ -1,0 +1,14 @@
+{
+  "@@locale": "en",
+  "appTitle": "RetinaScan AI",
+  "@appTitle": {
+    "description": "Application title"
+  },
+  "login": "Sign In",
+  "dashboard": "Dashboard",
+  "patients": "Patients",
+  "reports": "Reports",
+  "profile": "Profile",
+  "settings": "Settings",
+  "newScan": "New Scan"
+}
